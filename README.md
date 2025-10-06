@@ -1,3 +1,25 @@
+
+2025.10.5
+첫 수업 및 git 설정, 리액트 강의 공부시작 실습환경구축
+
+2025.10.6
+리액트 1-3 소스코드수정방법 (유튜브강의시청하며 따라함)
+app.js index.js app.css index html 등
+수정 및 build 명령어로 배포까지 완료
+
+리액트 책 계획은 토,일 밤시간 활용 (3시간정도 가능할듯) 월,화 (장사는 안하고 시간활용은 미정)
+그래도 한 달 안에 최대한 끝내볼 예정.
+
+(푸시하면서 gitignore 랑 README 파일이 충돌해서 조금 애먹음..
+ git checkout --theirs .gitignore README.md
+ git add .gitignore README.md
+ git rebase --continue
+ git push -u origin main --force-with-lease
+ 등등 이용해서 해결. 원격의 최근 커밋이 지워질 수 있다고 해서 그런지 
+ 처음 README 에 서영이가 적어준 내용이 없이 아래 내용들이 추가됨.)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
